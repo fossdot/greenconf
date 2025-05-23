@@ -1,0 +1,18 @@
+---
+base_url: "https://fossdot.github.io/greenconf"
+static_dir: "static"
+per_page: 50
+
+# Each entry can have multiple collection of tags (list of strings) in addition to the
+# categories. For instance, a directory of fonts could have multiple meaningful
+# tag collections per entry such as:
+# types = [serif, sans-serif, display, script]
+# mood = [retro, distressed, cool]
+# tag = [yep, nope, etc]
+taxonomies: ["tags"]
+
+site_name: "greenconf"
+site_description: "A directory of vendors to organize eco-friendly conferences and meetups in India"
+page_title: "Vendors in {category} to organize eco-friendly conferences and meetups"
+meta_description: "A directory of vendors to organize eco-friendly conferences and meetups in India."
+

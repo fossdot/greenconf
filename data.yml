@@ -1,0 +1,19 @@
+---
+  - name: Let's Be The Change
+    description: A non-profit organization for a sustainable society.
+    url: https://www.letsbethechange.in/
+    categories:
+      - Bangalore
+      - PAN India
+    tags: 
+      - Waste Management
+      - Awareness
+
+  - name: Church Street Tea
+    description: A stall in Church Street Bangalore to get snacks for meetups and conferences.
+    url: "tel:+918812843932"
+    categories:
+      - Bangalore
+    tags: 
+      - Food & Beverages
+    
