@@ -1,5 +1,5 @@
 ---
-base_url: "https://fossdot.github.io/greenconf"
+base_url: "http://localhost:8000"
 static_dir: "static"
 per_page: 50
 

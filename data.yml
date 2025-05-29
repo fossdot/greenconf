@@ -16,4 +16,12 @@
       - Bangalore
     tags: 
       - Food & Beverages
+
+  - name: Dominos Pizza
+    description: A popular pizza chain with multiple outlets in Bangalore.
+    url: "tel:+918028080808"
+    categories:
+      - Bangalore
+    tags: 
+      - Food & Beverages
     
