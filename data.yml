@@ -17,11 +17,38 @@
     tags: 
       - Food & Beverages
 
-  - name: Dominos Pizza
-    description: A popular pizza chain with multiple outlets in Bangalore.
-    url: "tel:+918028080808"
+  - name: Sticker Genie
+    description: A sticker printing service for PAN-India.
+    url: https://www.stickergenie.in/
+    categories:
+      - PAN India
+    tags: 
+      - Printing
+      - Merch
+  
+  - name: Video Recording and Editing Service by Manjesh
+    description: Video recording & editing and photgography service by Manjesh in Bangalore
+    url: "tel:+918892619663"
     categories:
       - Bangalore
+    tags:
+      - Videography
+      - Photgography
+
+  - name: Skyline AV
+    description: Audio, Video and conferences venue items service in Bangalore
+    url: "tel:+919845539653"
+    categories:
+      - Bangalore
+    tags:
+      - AV
+      - Conferences Management
+
+  - name: Printrove
+    description: Tshirt and Merch Printing online service 
+    url: https://printrove.com
+    categories:
+      - PAN India
     tags: 
-      - Food & Beverages
-    
+      - Tshirt
+      - Merch

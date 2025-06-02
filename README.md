@@ -1,12 +1,7 @@
-# fossdot.github.io
+# greenconf
 
-Organization GitHub Pages root repository. This repository contains the root domain configuration for fossdot.github.io.
+- [greenconf](https://fossdot.github.io/greenconf) - A directory of vendors to organize eco-friendly conferences and meetups in India
 
-## Projects
-
-- [Greenconf](https://fossdot.github.io/greenconf) - A directory of vendors to organize eco-friendly conferences and meetups in India
-
-The root domain (fossdot.github.io) automatically redirects to the Greenconf project.
 
 ## Contributing
 
